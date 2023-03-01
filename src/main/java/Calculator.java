@@ -75,6 +75,4 @@ class Calculator {
         return nString;
     }
 
-
-
 }
